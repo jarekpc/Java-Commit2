@@ -8,6 +8,7 @@ public class App {
 		// TODO Auto-generated method stub
 		System.out.println("App");
 		Date data = new Date();
+		System.out.println("Hello!");
 	}
 
 }
