@@ -8,6 +8,8 @@ public class App {
 		System.out.println("App");
 		Date data = new Date();
 		//System.out.println("Hello!");
+		String a = "Test";
+		System.out.println(a);
 		
 	}
 
